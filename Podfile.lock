@@ -1,0 +1,10 @@
+PODS:
+  - Commander (0.4.1)
+
+DEPENDENCIES:
+  - Commander (~> 0.4)
+
+SPEC CHECKSUMS:
+  Commander: 106cb704180eee0a5f9df2e9dbc090808b564636
+
+COCOAPODS: 0.39.0
